@@ -1,0 +1,67 @@
+@media (min width: 992px){
+
+} 
+
+@media (min width: 768px) and (max width: 991px){
+
+}
+
+@media (max width: 767px){
+
+}
+
+h1{
+	text-align: center;
+}
+
+#box{
+	background-color: grey;
+
+	margin-right: 50px;
+	margin-top: 50px;
+	box-sizing: border-box;
+	border: 2px solid black;
+	position: relative;
+	width: 450px;
+	float: left;
+}
+
+section{
+	left:210px;
+	position: relative;
+	align-content: center;
+	align-items: center;
+}
+
+#content{
+	padding: 10px;
+}
+
+#head{
+	float: right;
+
+	box-sizing: border-box;
+	border: 1px solid black;
+	position: relative;
+	clear :both;
+	width: 150px;
+	text-align: center;
+	height:50px;
+}
+
+#contentW{
+	color: white;
+	text-align: center;
+}
+
+.pink{
+	background-color: pink;
+}
+
+.yellow{
+	background-color: yellow;
+}
+
+.red{
+	background-color: red;
+}
